@@ -1,7 +1,7 @@
 HerokuT::Application.routes.draw do
   resources :owners
 
-root_to 'owners#new'
+    
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
